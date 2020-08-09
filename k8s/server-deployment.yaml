@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: server
-          image: stephengrider/multi-server
+          image: xdcc/multi-server
           ports:
             - containerPort: 5000
